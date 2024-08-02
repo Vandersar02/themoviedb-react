@@ -33,8 +33,6 @@ To run this project locally, follow these steps:
    cd themoviedb-react
    ```
 
-````
-
 2. **Install dependencies:**
 
    ```bash
@@ -59,7 +57,6 @@ To run this project locally, follow these steps:
 
    The app will be running at `http://localhost:3000`.
 
-
 ## Usage
 
 - Enter a movie title in the search bar to find movies.
@@ -78,4 +75,7 @@ This project uses The Movie Database (TMDB) API. For more details, refer to the 
 - **Axios** - A promise-based HTTP client for making requests
 - **React Router** - A library for routing in React applications
 - **Styled Components** - A library for styling React components
-````
+
+```
+
+```
