@@ -74,8 +74,4 @@ This project uses The Movie Database (TMDB) API. For more details, refer to the 
 - **TMDB API** - An API to access movie data
 - **Axios** - A promise-based HTTP client for making requests
 - **React Router** - A library for routing in React applications
-- **Styled Components** - A library for styling React components
-
-```
-
-```
+- **Bootstrap 5** - A CSS framework for building responsive designs
