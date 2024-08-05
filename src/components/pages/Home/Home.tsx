@@ -1,9 +1,9 @@
-import Navbar from "../components/Navbar";
+import Sidebar from "../../layout/Sidebar";
 
 const Home = () => {
   return (
     <>
-      <Navbar />
+      <Sidebar />
     </>
   );
 };
